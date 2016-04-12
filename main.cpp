@@ -29,8 +29,6 @@ int main()
             // Enter Vector A
             for (i=0; i< VECTOR_LENGTH; i++)
             {
-                 //checks to see if the value in the cin
-                 //stream is the correct type,
                 printf("A[%d] : ",i);
                 cin >> A[i];
 

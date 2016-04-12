@@ -11,4 +11,4 @@ the thread id which will perform this operation
 this program is wriiten in c++ using qt Creator
 
 to compile from terminal
-g++ -o outputName main.cpp
+g++  main.cpp -fopenmp
